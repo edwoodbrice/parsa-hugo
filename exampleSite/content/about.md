@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2019-05-14T14:46:10.000+06:00
+date: 2021-02-24T22:46:10+00:00
 description: This is meta description
 image: images/author.jpg
 
