@@ -5,6 +5,7 @@ description = "Test post"
 image = "/images/author.jpg"
 tags = []
 title = "What's Going on at Suffolk? "
+type = "featured"
 
 +++
 Hey! This is my first post :) 
