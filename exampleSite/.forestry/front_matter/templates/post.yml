@@ -24,4 +24,5 @@ fields:
   name: type
   label: type
 pages:
+- exampleSite/content/blog/test-post-1.md
 - exampleSite/content/blog/what-s-going-on-at-suffolk.md
